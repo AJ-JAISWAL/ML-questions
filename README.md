@@ -1,9 +1,4 @@
 
-
-
-
-![data_science_topics](https://user-images.githubusercontent.com/44112345/211920662-d87c5754-b60e-4eb4-9d93-5b7324421b1e.JPG)
-
 # Interview Questions - Data Scientist Positions ( Entry, Mid & Senior)
 
 > This repository contains the curated list of topic wise questions for Data Scientist Positions in various companies. <br />
