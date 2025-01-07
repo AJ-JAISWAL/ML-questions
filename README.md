@@ -30,7 +30,7 @@
 `Ans:` Artificial Intelligence (AI) is a broad field that encompasses many different techniques and technologies, including machine learning (ML) and deep learning (DL). <br />
 - **Artificial Intelligence (AI)** refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. It is a broad field that includes many different approaches and techniques, such as rule-based systems, and expert systems. <br />
 - **Machine Learning (ML)** is a subfield of AI that is focused on the development of algorithms and statistical models that enable machines to learn from data and make predictions or decisions without being explicitly programmed. <br />
-1- **Deep Learning (DL)** is a type of machine learning that is inspired by the structure and function of the brain's neural networks. It uses multiple layers of artificial neural networks to learn representations of data with multiple levels of abstraction. DL algorithms can be used for tasks such as image and speech recognition, natural language processing, and decision-making.
+- **Deep Learning (DL)** is a type of machine learning that is inspired by the structure and function of the brain's neural networks. It uses multiple layers of artificial neural networks to learn representations of data with multiple levels of abstraction. DL algorithms can be used for tasks such as image and speech recognition, natural language processing, and decision-making.
    
 ![al_ml_dl](https://user-images.githubusercontent.com/44112345/212048865-51478738-282a-46b5-b6ad-952fdb3abebd.JPG)
 
